@@ -1,1 +1,1 @@
-module.exports = require('visit-statis').main
+module.exports = require('visit-stat').main
